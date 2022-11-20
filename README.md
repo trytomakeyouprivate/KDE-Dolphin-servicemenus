@@ -13,5 +13,5 @@ You can copy them to `/home/USERNAME/.local/share/applications` and they appear 
 
 ---
 
-Note: By focussing only on folders in `~/` (`/home/USERNAME`) this works on every Linux distrom without sudo rights.
+Note: By focussing only on folders in `~/` (`/home/USERNAME`) this works on every Linux distro without sudo rights.
 In general its good practice to use `root` access as little as possible, with ***immutable Operating Systems*** like ***Fedora Silverblue/Kionite*** or ***VanillaOS*** (Ubuntu) being popular ones.
